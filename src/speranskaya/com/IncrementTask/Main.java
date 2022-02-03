@@ -1,4 +1,4 @@
-package speranskaya.com;
+package speranskaya.com.IncrementTask;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

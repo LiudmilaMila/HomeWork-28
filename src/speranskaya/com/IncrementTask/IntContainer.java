@@ -1,4 +1,4 @@
-package speranskaya.com;
+package speranskaya.com.IncrementTask;
 
 public class IntContainer {
 
